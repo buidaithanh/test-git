@@ -1,1 +1,3 @@
-console.log("homepage check conflict");
+
+console.log("homepage đã revert git successfully");
+
