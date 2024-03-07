@@ -1,1 +1,1 @@
-console.log("homepage");
+console.log("homepage cần phải xóa");
