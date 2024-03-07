@@ -1,1 +1,1 @@
-console.log("homepage cần phải xóa");
+console.log("homepage đã revert git successfully");
